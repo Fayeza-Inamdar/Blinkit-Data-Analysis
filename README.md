@@ -1,6 +1,7 @@
 **📊 Blinkit Sales Insights Dashboard**
 -------------------------------------------
 This project presents an interactive Power BI dashboard designed to analyze sales, outlet performance, and product characteristics for Blinkit — India’s largest minute-delivery platform. The dashboard helps stakeholders understand business performance through visually compelling charts, KPIs, and filters.
+<img width="1293" height="732" alt="image" src="https://github.com/user-attachments/assets/3496a88a-d43c-4594-aa27-73bb7454eda9" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Key Features**
